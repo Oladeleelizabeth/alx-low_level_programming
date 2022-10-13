@@ -2,7 +2,7 @@
 /**
  * main - a scrit that compiles a c file
  *
- * return zero
+ * return: zero
  *
 */
  int main(void) 
